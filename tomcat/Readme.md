@@ -1,1 +1,1 @@
-Repo containing tomcat servers
+This directory contains tomcat servers
