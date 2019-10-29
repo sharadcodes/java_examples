@@ -8,6 +8,8 @@
 
 ### index.jsp
 ![index.jsp](https://raw.githubusercontent.com/sharadcodes/java_examples/master/mynote/home.png)
+### detailed single note
+![new.jsp](https://raw.githubusercontent.com/sharadcodes/java_examples/master/mynote/detailed single note.png)
 ### new note
 ![new.jsp](https://raw.githubusercontent.com/sharadcodes/java_examples/master/mynote/new.png)
 ### edit note
