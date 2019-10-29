@@ -1,6 +1,5 @@
-# Mynote by Sharad Raj Singh Maurya
-
->Author: Sharad Raj, GIHSM, Lucknow https://linkedin.com/in/srsm
+# Mynote [Click to download](https://github.com/sharadcodes/java_examples/raw/master/mynote/mynote.zip)
+## Author: Sharad Raj, GIHSM, Lucknow https://linkedin.com/in/srsm
 
 * JDK 11.0.3
 * MySQL 8.0
