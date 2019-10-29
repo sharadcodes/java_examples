@@ -5,7 +5,7 @@
 ---
 # Project list
 
-1. [MyNote Project](/mynote)
+1. [MyNote Project]({%site.baseurl%}/mynote)
 
 
 ---
