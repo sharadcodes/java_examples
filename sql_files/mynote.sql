@@ -1,4 +1,4 @@
--- run these one by one      , Author: Sharad Raj, GIHSM, Lucknow https://linkedin.com/in/srsm
+-- run these one by one      , Author: Sharad Raj, GIHSM, Lucknow https://linkedin.com/in/srsmaurya
 
 CREATE DATABASE `mynote`;
 
