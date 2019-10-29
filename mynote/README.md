@@ -1,5 +1,7 @@
 # Mynote
+
 [Download](https://github.com/sharadcodes/java_examples/raw/master/mynote/mynote.zip)
+
 Author: [Sharad Raj](https://instagram.com/codingindian)
 
 * JDK 11.0.3
