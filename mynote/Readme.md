@@ -9,8 +9,6 @@
 ### index.jsp
 ![index.jsp](https://raw.githubusercontent.com/sharadcodes/java_examples/master/mynote/home.png)
 ### new note
-![index.jsp](https://raw.githubusercontent.com/sharadcodes/java_examples/master/mynote/new.png)
+![new.jsp](https://raw.githubusercontent.com/sharadcodes/java_examples/master/mynote/new.png)
 ### edit note
-![index.jsp](https://raw.githubusercontent.com/sharadcodes/java_examples/master/mynote/edit.png)
-### delete note
-![index.jsp](https://raw.githubusercontent.com/sharadcodes/java_examples/master/mynote/delete.png)
+![edit.jsp](https://raw.githubusercontent.com/sharadcodes/java_examples/master/mynote/edit.png)
