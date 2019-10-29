@@ -1,1 +1,1 @@
-[MyNote JSP,Servelt Project](/mynote)
+[MyNote Project](/mynote)
